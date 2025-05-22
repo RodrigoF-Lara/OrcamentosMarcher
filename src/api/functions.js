@@ -1,4 +1,4 @@
-https://orcamentos-marcher.vercel.app
+const API_KEY = import.meta.env.VITE_HUBSPOT_API_KEY;
 const APP_ID = "681abf384445610e1ee1321d";
 
 // Sincronizar cliente com HubSpot
