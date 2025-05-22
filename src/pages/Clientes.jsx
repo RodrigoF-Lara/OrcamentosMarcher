@@ -118,7 +118,7 @@ export default function Clientes() {
           variant="outline" 
           size="icon"
           onClick={() => setShowImportModal(true)}
-          title="Importar Clientes via CSV"
+          title="Importar Clientes via CSvV"
           className="ml-2"
         >
           <FileText className="h-4 w-4" />
